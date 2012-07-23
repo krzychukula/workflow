@@ -1,0 +1,10 @@
+Bunch of files I use to start test server and run tests on change.
+
+IDE agnostic.
+
+Needs:
+* inotifywait
+* notify-tools
+
+* node.js
+* buster.js
